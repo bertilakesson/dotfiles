@@ -1,0 +1,9 @@
+[user]
+	email = bertil.akesson@gmail.com
+	name = Bertil Akesson
+[color]
+	ui = auto
+[credential]
+	helper = cache
+[core]
+	editor = vim
